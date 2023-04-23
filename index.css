@@ -1,0 +1,19 @@
+.head{
+    text-align: center;
+    background-color: black;
+    color:white;
+    font-size:30px;
+    padding:15px;
+}
+.card{
+    margin-left: 30px;
+    margin-top: 20px;
+    border-radius:2%;
+    transition: all 0.2s ease;
+    cursor: pointer;
+    box-shadow: 5px 6px 6px 2px #e9ecef;
+}
+.card:hover{
+    box-shadow: 5px 6px 6px 2px #e9ecef;
+    transform: scale(1.1);
+}
